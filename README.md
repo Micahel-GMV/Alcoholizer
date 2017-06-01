@@ -1,6 +1,7 @@
    Small tutorial project using Spring Boot, Hibernate and SQLite. 
    
-   Olfrygt
+   Olfrygt.
+   
 Danish word describing the fear that arrives when you are out of town and unable to find a place to get a beer. 
       
    Many alcohol drinks producers use some marketing like changing bottle volume 
