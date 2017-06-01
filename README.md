@@ -9,7 +9,7 @@
 
 
     This is tutorial project based on different tutorials, lessons and articles. 
-    Many thanks to channels and authors that shared their knowledge. Here are main sources I used: 
+    Many thanks to channels and authors for sharing their knowledge. Here are main sources I used: 
     https://www.youtube.com/watch?v=1q8YQMEAleY&t=1101s - quick tutorial on Spring Boot Framework quickstart.
     https://habrahabr.ru/post/257223/ - small Spring Boot example project with lots of comments.
     https://github.com/gwenn/sqlite-dialect/ - SQLite dialect from gwenn
