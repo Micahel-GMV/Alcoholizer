@@ -10,6 +10,6 @@ import javax.persistence.Entity;
  */
 
 
-public class ShopRepository {
+public interface ShopRepository {
 
 }

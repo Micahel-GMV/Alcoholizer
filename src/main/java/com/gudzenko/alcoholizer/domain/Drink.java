@@ -9,9 +9,9 @@ import javax.persistence.Entity;
  * Created by Micahel on 01.06.2017.
  */
 
-@Entity
+/*@Entity
 @Getter
-@Setter
+@Setter*/
 public class Drink {
 
 }

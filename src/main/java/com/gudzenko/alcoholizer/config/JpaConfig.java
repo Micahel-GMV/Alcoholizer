@@ -14,7 +14,7 @@ import org.springframework.transaction.PlatformTransactionManager;
 import org.springframework.transaction.annotation.EnableTransactionManagement;
 import org.springframework.transaction.annotation.TransactionManagementConfigurer;
 
-import javax.activation.DataSource;
+import javax.sql.DataSource;
 import java.util.Properties;
 
 /**
@@ -47,7 +47,7 @@ public class JpaConfig implements TransactionManagementConfigurer {
         config.setUsername(username);
         config.setPassword(password);
 
-        return new HikariDataSource(config);
+        return (DataSource) new HikariDataSource(config).getDataSource();
     }
 
     @Bean
