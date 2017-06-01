@@ -1,4 +1,4 @@
-   Small tutorial projects using Spring Boot, Hibernate and SQLite. 
+   Small tutorial project using Spring Boot, Hibernate and SQLite. 
    
    Many alcohol drinks producers use some marketing like changing bottle volume 
    a little or reducing alcohol concentration to force a buyer to buy their product. 
