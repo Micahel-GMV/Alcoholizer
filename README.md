@@ -1,6 +1,6 @@
    Small tutorial projects using Spring Boot, Hibernate and SQLite. 
    
-      Many alcohol drinks producers use some marketing like changing bottle volume 
+   Many alcohol drinks producers use some marketing like changing bottle volume 
    a little or reducing alcohol concentration to force a buyer to buy their product. 
    You think you`re buying really cheap beer while buying a tinted smelly water wich 
    won`t bring you drunkeness. This project brings price of drinks to price of vodka 
